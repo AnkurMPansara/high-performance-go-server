@@ -51,20 +51,3 @@ func CreateAccessLogs(log map[string]interface{}) {
 		fmt.Println("error loading writing logs: %w", err)
 	} 
 }
-
-func WriteInFile(content string, filePath string) error {
-	fileLock.Lock()
-	file, fileOpenErr := os.OpenFile(filePath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
-	if fileOpenErr != nil {
-		return fileOpenErr
-	}
-	defer func() {
-		file.Close()
-		fileLock.Unlock()
-	}()
-	_, writeErr := file.WriteString(fmt.Sprintf("%s\n", content))
-	if writeErr != nil {
-		return writeErr
-	}
-	return nil
-}
