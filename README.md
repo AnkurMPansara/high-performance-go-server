@@ -145,9 +145,15 @@ You need to have **Go** installed on your system. You can download it from [http
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This backend server is designed for projects that require **high-speed request handling** and **robust API support**. Typical use cases include:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+* Building RESTful APIs for web or mobile applications  
+* Prototyping scalable backend services quickly  
+* Projects requiring request authentication, access logs, and application logs  
+* Dockerized deployments for consistent environments  
+* Learning or demonstrating high-performance Go server patterns  
+
+It can serve as a foundation for production-grade systems or as a template for new backend projects.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
