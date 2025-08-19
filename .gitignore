@@ -1,3 +1,5 @@
 logs/dev/*
 logs/stg/*
 logs/prod/*
+go.mod
+go.sum
