@@ -1,0 +1,10 @@
+application_log_file: "application_logs"
+access_log_file: "golang_access_logs"
+
+log_type_server_error: "SERVER_ERROR"
+log_type_custom_recovery: "PANIC_RECOVERY"
+log_type_get_greetings: "GET_GREETINGS"
+log_type_create_token: "CREATE_TOKEN"
+
+authentication_secret_key_user: "2788b788848a8fcfd8393633ccd906e3ab5ca142c363d4f672ef0268a5d486d7"
+authentication_secret_key_server: "2788f788848a8fcbd8393633ccd906e3ab5ca142c363d4f672ef0268a5d123d7"
