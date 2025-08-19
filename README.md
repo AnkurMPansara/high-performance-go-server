@@ -88,8 +88,6 @@ This repository contains a **high-speed Go backend server** designed to handle c
 
 You can contribute by **submitting feature requests**, suggesting improvements via GitHub Issues, or opening a pull request with enhancements. This project is meant to serve as a **ready-to-use backend template** for Go developers who want a fast, reliable foundation for their applications.  
 
-Use the `BLANK_README.md` to get started quickly with your own instance.  
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
@@ -258,3 +256,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[GoLang]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+[Go-url]: https://golang.org/
+[Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
+[Gin]: https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white
+[Gin-url]: https://github.com/gin-gonic/gin
+[GORM]: https://img.shields.io/badge/GORM-2EC866?style=for-the-badge&logo=go&logoColor=white
+[GORM-url]: https://gorm.io/
