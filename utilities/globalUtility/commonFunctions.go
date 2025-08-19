@@ -50,6 +50,8 @@ func ConvertValueToInt(v interface{}) int {
 		if val {
 			convertedValue = 1
 		}
+	case time.Duration:
+		convertedValue = int(val)
 	default:
 		convertedValue = 0
 	}
