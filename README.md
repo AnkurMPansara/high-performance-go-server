@@ -108,36 +108,37 @@ This project is built with the following core technologies:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Follow these steps to set up and run the backend server locally.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+You need to have **Go** installed on your system. You can download it from [https://golang.org/dl/](https://golang.org/dl/).
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/AnkurMPansara/high-performance-go-server.git
+   cd high-performance-go-server
+   ```
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+2. **Initialize Go modules**  
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   go mod init backend-server
+   go mod tidy
    ```
-3. Install NPM packages
+
+3. **Run the server locally**  
+   Use the `go run` command and specify the port as the second argument:  
    ```sh
-   npm install
+   go run ./cmd/main.go 8080
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+   Replace `8080` with any port you want the server to listen on.
+
+---
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
