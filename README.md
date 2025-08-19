@@ -207,7 +207,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ankur Pansara - [linkedin-shield](https://in.linkedin.com/in/ankur-pansara) - email@example.com
+Ankur Pansara - [![LinkedIn][linkedin-shield]](https://in.linkedin.com/in/ankur-pansara) - email@example.com
 
 Project Link: [https://github.com/AnkurMPansara/high-performance-go-server](https://github.com/AnkurMPansara/high-performance-go-server)
 
