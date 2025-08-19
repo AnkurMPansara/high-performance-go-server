@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://https://go.dev">
+  <a href="https://go.dev">
     <img src="images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
@@ -39,14 +39,14 @@
   <p align="center">
     High-speed Go backend server with authentication, logging, REST APIs, and Docker deployment.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://go.dev/doc"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://www.google.com">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/AnkurMPansara/high-performance-go-server/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/AnkurMPansara/high-performance-go-server/issues/new">Request Feature</a>
   </p>
 </div>
 
