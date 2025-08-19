@@ -162,15 +162,16 @@ It can serve as a foundation for production-grade systems or as a template for n
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Initialize Go module and tidy dependencies  
+- [x] Add basic server with request authentication and logging  
+- [x] Add Docker support for easy deployment  
+- [ ] Implement additional API endpoints and features  
+- [ ] Add detailed Documentation with usage examples  
+- [ ] Improve error handling and validation  
+- [ ] Add automated tests and CI/CD integration  
+- [ ] Multi-language support for responses (optional)  
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/AnkurMPansara/high-performance-go-server/issues) for a full list of proposed features and known issues.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
