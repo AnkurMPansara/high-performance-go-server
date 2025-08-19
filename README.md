@@ -31,13 +31,13 @@
 <br />
 <div align="center">
   <a href="https://https://go.dev">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">High Performance Go API Server</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    High-speed Go backend server with authentication, logging, REST APIs, and Docker deployment.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
