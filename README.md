@@ -99,7 +99,6 @@ This project is built with the following core technologies:
 * [![Go][GoLang]][Go-url]
 * [![Docker][Docker]][Docker-url]
 * [![Gin][Gin]][Gin-url]
-* [![GORM][GORM]][GORM-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
